@@ -7,7 +7,6 @@ The purpose of this project was to give the requesting department an ad-hoc repo
 3.	The tool be easy for managers to use (Accomplished)
 4.	The results be visually digestible (Accomplished)
 
-In all, 3 meeting were held with stakeholders prior to roll out and a presentation was given along with key insights that were discovered in the process.
 
 # Steps to Create the Tool
 
